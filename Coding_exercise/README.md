@@ -1,4 +1,4 @@
-### This respository consists for 3 main files as part of DECDG Coding Exercise:
+### This respository consists of 3 main files as part of DECDG Coding Exercise:
 
 ```
 part1_output.html
